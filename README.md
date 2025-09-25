@@ -32,6 +32,8 @@ Volutrack leverages **computer vision + calibration** to estimate package dimens
 - 💾 Save/export results for future use  
 
 👉 [Demo Video / Screenshots Placeholder](#)  
+<img width="942" height="448" alt="image" src="https://github.com/user-attachments/assets/6874c946-76a8-4689-ac39-8f33a3abf2c8" />
+
 
 ---
 
