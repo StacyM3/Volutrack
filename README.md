@@ -46,3 +46,37 @@ Volutrack leverages **computer vision + calibration** to estimate package dimens
 ---
 
 ## 📂 Repository Structure
+
+
+---
+
+## 🏆 Outcomes
+- ✅ Completed a functional prototype in <48h  
+- 🌟 Positive feedback from hackathon judges & participants  
+- 👥 User validation with SMB sellers (strong interest in real-world application)  
+- 🥈 Awarded **2nd place for Best AI Application**  
+
+---
+
+## 🔮 Next Steps
+- Enhance CV accuracy with auto edge detection (reduce manual marking)  
+- Add **batch scanning** for SMBs with multiple shipments  
+- Expand carrier integrations (global support)  
+- Build **native mobile app** for easier AR-based measurement  
+- Explore **API/SDK offering** for marketplaces & logistics platforms  
+
+---
+
+## 👥 Team Members
+- **You (PM):** Product Manager – PRD, roadmap, backlog, coordination  
+- **Dev A:** Full-stack engineer – frontend (React) + backend APIs  
+- **Dev B:** CV/ML engineer – computer vision model & calibration logic  
+- **Designer C:** UX/UI design – flows, mockups, visual polish  
+
+---
+
+## ✨ Reflection
+> *“As a PM, I learned that in hackathons, speed and clarity matter more than perfection — aligning the team around a clear problem and simple solution unlocks creativity and execution.”*
+
+---
+
