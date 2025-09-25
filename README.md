@@ -1,5 +1,5 @@
 # 📦 Volutrack: AI-Powered Shipping Estimator  
-*Hackathon: Future of Logistics Hackathon 2025 | Date: Sept 20–22, 2025 | Theme: AI for Efficiency | Team Size: 4 | Role: Product Manager*
+*Hackathon: Future of Logistics Hackathon 2025 | Date: Sept 20, 2025 | Theme: AI for Efficiency | Team Size: 4 | Role: Product Manager*
 
 ---
 
