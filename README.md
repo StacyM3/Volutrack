@@ -51,7 +51,7 @@ Volutrack leverages **computer vision + calibration** to estimate package dimens
 ---
 
 ## 🏆 Outcomes
-- ✅ Completed a functional prototype in <48h  
+- ✅ Completed a functional prototype in <2h  
 - 🌟 Positive feedback from hackathon judges & participants  
 - 👥 User validation with SMB sellers (strong interest in real-world application)  
 - 🥈 Awarded **2nd place for Best AI Application**  
